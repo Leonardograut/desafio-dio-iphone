@@ -1,35 +1,8 @@
 
 public class Iphone implements AparelhoTelefonico, NavegadorInternet, ReprodutorMusical {
 
-	private NavegadorInternet navegadorInternet;
-	private ReprodutorMusical reprodutormusical;
-	
-	private AparelhoTelefonico aparelhotelefonico;
-	
-	
-	Iphone(){
-		
-	}
-	
-	
-	
-	
-	public AparelhoTelefonico getAparelhotelefonico() {
-		return aparelhotelefonico;
-	}
 
-	public NavegadorInternet getNavegadorInternet() {
-		return navegadorInternet;
-	}
-
-	public ReprodutorMusical getReprodutormusical() {
-		return reprodutormusical;
-	}
-
-	
-	
-	
-	
+	//classe iphone  vai  implementar as  interfaces 
 	
 	@Override
 	public void tocar() {
