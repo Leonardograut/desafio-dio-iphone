@@ -13,4 +13,8 @@ Comportamentos esperados:
 • Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 
-![uml](https://github.com/Leonardograut/desafio-dio-iphone/assets/98924684/41591472-41a8-4324-a7aa-1032f0daf7ad)
+
+![uml](https://github.com/Leonardograut/desafio-dio-iphone/assets/98924684/396d8721-7bdc-4b50-a1f8-ff69f925479c)
+
+
+
